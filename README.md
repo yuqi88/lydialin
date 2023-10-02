@@ -8,14 +8,13 @@ I am a full-stack developer passionate about building meaningful applications ho
 
 
 ###  Check out my GitHub!
-
 ![Lydia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuqi88&show_icons=true&theme=transparent)
 
 ### For more updates, follow me on:
-🥕 <a href="https://www.linkedin.com/in/lydia-yuqi-lin/">Linked In</a>
-🥕 <a href="https://www.instagram.com/lid.lin_540u7/">Instagram</a>
+🥕 [linked in](https://www.linkedin.com/in/lydia-yuqi-lin/)
+🥕 [Instagram](https://www.instagram.com/lid.lin_540u7/)
 
-[linked in](https://www.linkedin.com/in/lydia-yuqi-lin/) [Instagram](https://www.instagram.com/lid.lin_540u7/)
+
 ### Languages and Tools
 <div>
     <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
