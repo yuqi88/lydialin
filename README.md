@@ -13,7 +13,8 @@ I am a full-stack developer passionate about building meaningful applications ho
 ![Lydia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuqi88&show_icons=true&theme=transparent)
 
 <h3>For more updates, follow me on:</h3>
-🥕 [linked in](https://www.linkedin.com/in/lydia-yuqi-lin/) 🥕 [instagram](https://www.instagram.com/lid.lin_540u7/)
+🥕 <a href="https://www.linkedin.com/in/lydia-yuqi-lin/">Linked In</a>
+🥕 <a href="https://www.instagram.com/lid.lin_540u7/">Instagram</a>
 
 <h3> Languages and Tools </h3>
 <div>
