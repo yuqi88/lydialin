@@ -1,18 +1,21 @@
-# Hey! I am Lydia 🤸🏻 
+<h1> Hey there! I am Lydia 🤸🏻 </h1>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/lydia-yuqi-lin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-
-### Check out my GitHub!
-
-![Lydia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuqi88)
+<p>Welcome to my GitHub profile!</p>
+<p>
+I am a full-stack developer passionate about building meaningful applications hoping to elevate life with technology.
+🌟 Constantly learning and exploring.
+</p>
 
 
-### Languages and Tools
+
+<h3> Check out my GitHub! </h3>
+
+![Lydia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuqi88&show_icons=true&theme=transparent)
+
+<h3>For more updates, follow me on:</h3>
+🥕 [linked in](https://www.linkedin.com/in/lydia-yuqi-lin/) 🥕 [instagram](https://www.instagram.com/lid.lin_540u7/)
+
+<h3> Languages and Tools </h3>
 <div>
     <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -27,4 +30,6 @@
     <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
+
+
 
