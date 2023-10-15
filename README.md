@@ -8,7 +8,8 @@ I am a full-stack developer passionate about building meaningful applications ho
 
 
 ###  Check out my GitHub!
-![Lydia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuqi88&show_icons=true&theme=transparent)
+[![Lydia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuqi88&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### For more updates, follow me on:
 🥕 [linked in](https://www.linkedin.com/in/lydia-yuqi-lin/)
